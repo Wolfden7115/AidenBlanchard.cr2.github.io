@@ -1,6 +1,5 @@
 body {
-	background-image: url ("image/image.png");
-}
+	background-image: url("image.png");
 p {
 	color:red;
 	text-size: 20px
